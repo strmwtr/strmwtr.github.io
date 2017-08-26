@@ -1,0 +1,24 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  color: #585E57;
+  text-align: center;
+}
+.main-text{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 1%;
+}
+.img-sm{
+  max-width: 20%;
+  max-height: auto;
+  padding: 3%
+}
+.img-md{
+  max-width: 25%;
+  max-height: auto;
+  padding: 3%
+}
+.img-lrg{
+  max-width: 40%;
+  max-height: auto;
+}
